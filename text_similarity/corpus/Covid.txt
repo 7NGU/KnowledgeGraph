@@ -1,0 +1,71 @@
+The drug maker Merck said on Friday that its pill to treat Covid-19 was shown in a key clinical trial to halve the risk of hospitalization or death when given to high-risk people early in their infections.
+
+The strong results suggest that a new wave of effective and easy-to-use treatments for Covid will gradually become available in the United States, though supply is likely to be limited at first. Merck said it would seek emergency authorization from the Food and Drug Administration for its drug, known as molnupiravir, as soon as possible. The pills could be available by late this year.
+
+Merck’s drug would be the first pill to treat Covid-19; it is likely to be followed by a number of other antiviral pills that other companies are racing to bring to market. They have the potential to reach more people than the antibody treatments that are being widely used in the United States for high-risk patients.
+
+“I think it will translate into many thousands of lives being saved worldwide, where there’s less access to monoclonal antibodies, and in this country, too,” said Dr. Robert Shafer, an infectious disease specialist at Stanford University.
+
+White House officials hailed the strong trial data on Friday, but they noted that the antiviral pills were no substitute for more Americans getting vaccinated. Despite the growing number of governments and companies mandating vaccines, only 56 percent of Americans are fully vaccinated.
+
+“The right way to think about this is this is a potential additional tool in our toolbox to protect people from the worst outcomes of Covid,” said Jeff Zients, a White House coronavirus adviser.
+
+Vaccination “remains far and away our best tool against Covid-19,” he said. “It can prevent you from getting Covid in the first place, and we want to prevent infections — not just treat them when they happen.”
+
+The results of clinical trials of two other antiviral pills, one developed by Pfizer and the other from Atea Pharmaceuticals and Roche, are expected in the next few months.
+
+The Merck drug — named for Mjölnir, the hammer wielded by the thunder god Thor in Norse mythology — is designed to stop the coronavirus from replicating by inserting errors into its genetic code. Doctors will prescribe the treatment to patients, who will receive the pills from pharmacies. The drug is meant to be taken as four capsules twice a day for five days — a total of 40 pills over the course of treatment.
+
+The federal government has placed advance orders for 1.7 million courses of treatment, at a price of about $700 per patient. That is about one-third the current cost of a monoclonal antibody treatment, which is typically given to patients via intravenous hookups.
+
+The limited number of doses that the U.S. government has ordered means that only a small fraction of those who fall ill from Covid are likely to be able to receive the treatment, at least initially. Merck said on Friday that it expected to be able to make enough pills for 10 million people by the end of this year, though it is unclear how many of those doses would go to the United States or other countries.
+
+Covid has killed nearly 700,000 Americans. Roughly half of those deaths occurred this year, even as vaccines became widely available.
+
+Merck said an independent board of experts monitoring its clinical trial recommended that the trial be stopped early because the drug’s benefit to patients had proved so convincing. The company said the F.D.A. had agreed with that decision.
+
+The monitors looked at data through early August, when the study had enrolled 775 volunteers in the United States and overseas. Seven percent of those in the group that received the drug were hospitalized, and none died, compared with a 14 percent rate of hospitalization and death in the group that received placebo pills. Mild side effects, which can include headaches, were reported at the same rate in both groups.
+
+The Merck pill appeared to be less effective than monoclonal antibody treatments, which have been in high demand recently. Studies have shown that they reduce hospitalizations and deaths by at least 70 percent in high-risk Covid patients. But the antibody treatments are expensive, are typically given intravenously and are cumbersome for hospitals and clinics to administer.
+
+Angela Rasmussen, a virologist and research scientist at the Vaccine and Infectious Disease Organization at the University of Saskatchewan, said antiviral pills could have a greater impact by virtue of reaching more people.
+
+If the pills cut hospitalizations and deaths by half, “that is going to translate to an objectively larger number of lives saved potentially with this drug,” she said. “Maybe it isn’t doing the same numbers as the monoclonal antibodies, but it’s still going to be huge.”
+
+Merck is the world’s second-largest vaccine maker, and it initially was expected to play a crucial role in fighting the pandemic. But its attempts to create an effective vaccine failed.
+
+With the antiviral pill, Merck “hopefully can take what is potentially a life-threatening situation with Covid and make it manageable,” Merck’s chief executive, Robert Davis, said in an interview.
+
+Several Wall Street analysts projected that the drug would bring in $10 billion in annual revenue, which would immediately put it in the top 10 best-selling drugs each year and provide a big financial boost for Merck. The company’s stock rose more than 8 percent on Friday.
+
+Merck, which is developing the pill with Ridgeback Biotherapeutics of Miami, has not said which patients it plans to ask the F.D.A. to authorize the drug for.
+
+The initial recipients may be the same limited group of patients who are eligible to receive monoclonal antibody treatments: older people and those with medical conditions like heart disease that put them at high risk for bad outcomes from Covid. But experts said they expected that the drug might eventually be used more widely, in many people who test positive for the virus.
+
+In addition to treating people who are already sick with Covid, Merck and other antiviral pill developers are testing whether the pills can prevent illness in people living in the same household as someone infected with the virus.
+
+If authorized, Merck’s drug would be the second antiviral treatment for Covid. The first, remdesivir, must be infused and has lost favor among clinicians after studies suggested that it offers only modest benefit for Covid patients.
+
+Volunteers in Merck’s clinical trial had to be unvaccinated, had to be at high risk of bad outcomes from Covid and had to have begun having symptoms of Covid within the past five days.
+
+The company did not disclose whether, or to what degree, the drug was more or less effective depending on how soon the treatment was given.
+
+“If you see a difference for patients who got treated at, say, Day 2, versus patients who got treated Day 5,” said Dr. Celine Gounder, an infectious disease specialist at Bellevue Hospital Center. “That’s going to imply that there are limitations in terms of impact because you’d need to be able to make the diagnosis in time and get people treated quickly enough.”
+
+Experts also cautioned that the United States did not yet have enough coronavirus testing or sufficient infrastructure for delivering the pills to take full advantage.
+
+Dr. Gounder and other experts said getting the pills to people quickly enough for them to benefit would require more antigen testing, which is conducted at home or in drive-throughs and returns results in 15 minutes. But the tests are hard to come by and quickly sell out when retailers get them in stock. (PCR testing, by contrast, can take days for labs to return a positive result.)
+
+The goal should be for people to begin taking the pills within 24 hours of showing symptoms and testing positive, said Dr. Elizabeth Duke, an infectious disease specialist who ran Merck’s study site at Fred Hutchinson Cancer Research Center in Seattle. Absent greater use of things like telemedicine, that will be hard, she said.
+
+“We need a way to where people get a positive result and immediately someone can talk with them, review any contradictions to receiving the medicine and mail it to their house via FedEx,” she said.
+
+Dr. Duke noted that the influenza pill oseltamivir, which is best known as Tamiflu and is the closest equivalent to molnupiravir on the market today, has been underused because it must be given within 48 hours of the onset of symptoms.
+
+“It so rarely actually happens that oseltamivir is delivered quickly enough to really help people,” she said. “I’d hate to see that happen for molnupiravir and Covid.”
+
+Merck’s pill is badly needed in poorer parts of the world, where vaccination rates remain low and antibody treatments are mostly unavailable. But that will necessitate a widely available, cheap and easy way of detecting the virus, which does not yet exist.
+
+Merck has entered into licenses with eight makers of generic drugs in India, including major players like Sun Pharma and Dr. Reddy’s Laboratories, to manufacture its pill for poorer countries. The goal is for them to supply more than 100 lower- and middle-income countries, said Jenelle Krishnamoorthy, a Merck executive who works on global policy. The companies can set prices and negotiate supply deals.
+
+
